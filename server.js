@@ -26,6 +26,7 @@ console.log("server started on port 3000");
           cd express_server 
           touch server.js 
           npm init 
+          npm istall express( this installs the node modules ,once see folder )
           make changes in the express.js file and then run on localhost
           nodemon
 */
