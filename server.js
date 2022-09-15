@@ -19,3 +19,13 @@ console.log("server started on port 3000");
 });
 
 // to stop the server use ctrl+c
+// recall the whole process , that is all the terminal commands 
+// first making a folder , then touching a server javascript file , then initializing npm and making packages 
+/*
+          mkdir express_sever
+          cd express_server 
+          touch server.js 
+          npm init 
+          make changes in the express.js file and then run on localhost
+          nodemon
+*/
