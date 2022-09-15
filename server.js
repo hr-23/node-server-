@@ -29,4 +29,32 @@ console.log("server started on port 3000");
           npm istall express( this installs the node modules ,once see folder )
           make changes in the express.js file and then run on localhost
           nodemon
+          
+          look at this below for brief idea 
+          Calculator Setup Challenge
+Before we start creating our Calculator website, we'll need to set up a new project. Follow the steps below using your Hyper Terminal to complete this challenge:
+
+Make a new folder called Calculator on your Desktop
+
+Change Directory to this new folder
+
+Inside the Calculator folder, create a new file called calculator.js
+
+Set up a new NPM package
+
+Open the project folder in Atom 
+
+Using NPM install the express module
+
+Require express in your calculator.js
+
+Setup express
+
+Create a root route get method with app.get()
+
+Send the words Hello World from the root route as the response
+
+Spin up our server on port 3000 with app.listen
+
+Run server with nodemon
 */
